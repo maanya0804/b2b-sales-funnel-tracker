@@ -1,0 +1,79 @@
+
+================================================
+  B2B SALES FUNNEL CONVERSION ANALYSIS
+  Prepared by: Maanya Saikia
+  Verticals: IT, BFSI, Manufacturing
+================================================
+
+OBJECTIVE
+---------
+To model deal flow across a 5-stage consultative sales funnel and identify
+conversion leakage points across three key industry verticals.
+
+FUNNEL STAGES: Prospect → Engage → Propose → Close → Retain
+
+
+IT VERTICAL
+────────────────────────────────────────
+  Starting Pipeline : 200 prospects
+  Deals Closed      : 25
+  Retained Clients  : 18
+  Overall Conversion: 9.0%
+
+  Stage Conversion Breakdown:
+  Prospect → Engage  : 60.0%
+  Engage   → Propose : 50.0%
+  Propose  → Close   : 41.7%
+  Close    → Retain  : 72.0%
+
+  KEY LEAKAGE POINT: Propose→Close
+  (41.7% conversion — lowest in the funnel)
+
+
+BFSI VERTICAL
+────────────────────────────────────────
+  Starting Pipeline : 180 prospects
+  Deals Closed      : 20
+  Retained Clients  : 16
+  Overall Conversion: 8.9%
+
+  Stage Conversion Breakdown:
+  Prospect → Engage  : 50.0%
+  Engage   → Propose : 44.4%
+  Propose  → Close   : 50.0%
+  Close    → Retain  : 80.0%
+
+  KEY LEAKAGE POINT: Engage→Propose
+  (44.4% conversion — lowest in the funnel)
+
+
+MANUFACTURING VERTICAL
+────────────────────────────────────────
+  Starting Pipeline : 150 prospects
+  Deals Closed      : 12
+  Retained Clients  : 8
+  Overall Conversion: 5.3%
+
+  Stage Conversion Breakdown:
+  Prospect → Engage  : 46.7%
+  Engage   → Propose : 42.9%
+  Propose  → Close   : 40.0%
+  Close    → Retain  : 66.7%
+
+  KEY LEAKAGE POINT: Propose→Close
+  (40.0% conversion — lowest in the funnel)
+
+
+CROSS-VERTICAL RECOMMENDATIONS
+───────────────────────────────
+1. Propose→Close is the weakest stage across all verticals.
+   Action: Strengthen proposal quality with client-specific ROI framing.
+
+2. Manufacturing shows lowest overall conversion (5.3%).
+   Action: Increase early-stage qualification rigour to reduce wasted pipeline.
+
+3. BFSI retention rate is strongest at 80%.
+   Action: Replicate BFSI engagement model in IT and Manufacturing post-close.
+
+4. Prospect→Engage drop-off is steepest in Manufacturing (53%).
+   Action: Revisit ICP (Ideal Client Profile) for Manufacturing segment.
